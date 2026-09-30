@@ -1,0 +1,57 @@
+{
+  "title": "Vietnamese Gaming and Football Glossary Dataset",
+  "version": "1.0.0",
+  "published": "2026-10-01",
+  "creator": "Viet Game Index Editorial Team",
+  "homepage": "https://vietgameindex.com/",
+  "methodology": "https://vietgameindex.com/nghien-cuu/",
+  "repository": "https://github.com/vietgameindex/vietnamese-gaming-football-glossary",
+  "license": "CC-BY-4.0",
+  "locale_context": "vi-VN",
+  "counts": {
+    "glossary_rows": 2485,
+    "guide_entities": 199,
+    "brand_rows": 84,
+    "provider_rows": 69,
+    "category_rows": 6,
+    "normalized_term_collisions": 72
+  },
+  "files": {
+    "README.md": {
+      "sha256": "33df98691a203c0e0fbb26edf9d18475e93a48cf02480dc5e633aa362eb56eae",
+      "bytes": 2511
+    },
+    "LICENSE": {
+      "sha256": "5d545dcdb2d1ad2f7c76c6740b0fcba7838a8fd5c9396a2c3b6a29b1d2773038",
+      "bytes": 498
+    },
+    "DATA_DICTIONARY.md": {
+      "sha256": "c3711751197463f7fcdc5c793ad9f23cd5c4abfd3396314ed8829e8adfc80c32",
+      "bytes": 1499
+    },
+    "CITATION.cff": {
+      "sha256": "6067d4e7158a89df06d7bced48c0c7c1ab8178f839ad2ce9b26a4888434de127",
+      "bytes": 515
+    },
+    "CHANGELOG.md": {
+      "sha256": "7b5f2f03560a87ce741589d19f27754356e00cab4ed935f4f1acfb7dba349028",
+      "bytes": 280
+    },
+    "data/vietnamese_game_football_glossary.csv": {
+      "sha256": "76a24d56ff3f6208fafdaff0edc06cc83103c2eb8739901f5ca7adc908096710",
+      "bytes": 490131
+    },
+    "data/brand_catalog.csv": {
+      "sha256": "f5261d96019f1523681e6fac40838986c3b53504e56ffd425574cb044484b84a",
+      "bytes": 20983
+    },
+    "data/provider_catalog.csv": {
+      "sha256": "10451553ab7fa8198d069fd84c1ef7a00cfaff645040863a96b500cb30dc3443",
+      "bytes": 17150
+    },
+    "data/category_catalog.csv": {
+      "sha256": "c3a624a5507cfda0c620edf094f76d12a59d97ba420a290777e33f0c6cfa2c15",
+      "bytes": 557
+    }
+  }
+}

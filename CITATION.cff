@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "Vietnamese Gaming and Football Glossary Dataset"
+type: dataset
+version: 1.0.0
+date-released: 2026-10-01
+authors:
+  - name: "Viet Game Index Editorial Team"
+license: CC-BY-4.0
+repository-code: "https://github.com/vietgameindex/vietnamese-gaming-football-glossary"
+url: "https://vietgameindex.com/nghien-cuu/"
+keywords:
+  - Vietnamese
+  - glossary
+  - football
+  - sports data
+  - online games
+  - game providers
